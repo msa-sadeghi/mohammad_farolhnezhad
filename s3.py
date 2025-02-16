@@ -28,3 +28,7 @@
 
 # print(f"{number1} + {number2} = {number1 + number2}")
 # print(f"{number1} - {number2} = {number1 - number2}")
+F = float(input("enter a number: "))
+
+C = 59 * (F-32)
+print(C)
